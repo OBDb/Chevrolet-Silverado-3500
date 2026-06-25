@@ -1,0 +1,10 @@
+command_id: DA18.221B30|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_CURRENT_GEAR: 6
+    CHEVROLET_GEAR: D6
+  response: '14 2A F1 18 04 62 1B 30 09 '
+- expected_values:
+    CHEVROLET_CURRENT_GEAR: 6
+    CHEVROLET_GEAR: D6
+  response: 142AF11804621B3009

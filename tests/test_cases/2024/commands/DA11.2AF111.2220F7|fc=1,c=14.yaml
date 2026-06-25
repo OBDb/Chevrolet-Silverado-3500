@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.2220F7|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_DPF_AVG_DIST_BETWEEN_REGENS: 203
+  response: '14 2A F1 11 05 62 20 F7 00 CB '
+- expected_values:
+    CHEVROLET_DPF_AVG_DIST_BETWEEN_REGENS: 203
+  response: 142AF111056220F700CB
