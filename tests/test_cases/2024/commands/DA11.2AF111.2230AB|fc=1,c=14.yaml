@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.2230AB|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_DPF_EGT_5: 255.1
+  response: '14 2A F1 11 05 62 30 AB 0B 87 '
