@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.22303B|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SILV3500_DPF_EGT_2: 251.5
+  response: 142AF1110562303B0B63
