@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.223372|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SILV3500_PARTICULATE_MATTER_SNS_T_DA11: 187
+  response: 142AF11105623372074E

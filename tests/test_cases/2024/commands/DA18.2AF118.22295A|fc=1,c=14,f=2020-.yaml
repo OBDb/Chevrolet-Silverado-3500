@@ -1,0 +1,5 @@
+command_id: DA18.2AF118.22295A|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SILV3500_TF_T_FLTED_DA18: 65
+  response: '14 2A F1 18 04 62 29 5A 69 '

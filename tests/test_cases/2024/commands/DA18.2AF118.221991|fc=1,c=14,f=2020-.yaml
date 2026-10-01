@@ -1,0 +1,5 @@
+command_id: DA18.2AF118.221991|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SILV3500_TC_SLIP_VSS_DA18: -149.5
+  response: '14 2A F1 18 05 62 19 91 FB 54 '
